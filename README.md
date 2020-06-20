@@ -35,4 +35,5 @@ password: 12345
 IMPORTANT: Database resets every 30 mins like "12:00am, 12:30am, 1:00am" and so on. So anything you do will be lost after a short time.
 
 Demo is also linked to a Node.js express.js MongoDB JWT REST API project that shows how this frontend can be integrated to an API.
+
 Running demo is here: https://api-demo.daniel-avellaneda.com
